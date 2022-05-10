@@ -1,0 +1,29 @@
+div {
+    width: 602px;
+    background-color: green;
+    margin: 25px;
+    transition: all 0.1s;
+    border-radius: 5px;
+}
+
+div#blok1_zyrek:hover {
+    background-color: yellow;
+    font-size: 21mm;
+}
+
+div#blok2_zyrek:hover {
+    background-color: gray;
+    font-size: 21mm;
+}
+
+div#blok3_zyrek:hover {
+    background-color: blue;
+    font-size: 21mm;
+}
+
+
+/*
+   
+    hover; - jest selektorem który spełnia wartość jak nad danym elementem html znajduje się kursor myszy
+	zyrek
+*/
